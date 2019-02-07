@@ -172,6 +172,7 @@ function returnFlights() {
 //functions to call event api
 function eventFunction() {
     $(".eventSection").empty();
+    $(".weatherSection").empty();
     selectedEvents = [];
     eventCity = $(this).attr("value");
     buttonID = "#" + $(this).attr("id");
