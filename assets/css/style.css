@@ -1,0 +1,62 @@
+.full-background{
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.flybuy-icon{
+    width: 300px;
+    height: auto;
+}
+
+.header {
+    padding:10px;
+    margin-bottom: 10px;
+}
+
+hr {
+    border: 2px solid gray;
+    border-radius: 1px;
+  }
+
+.light-background {
+    background-color: whitesmoke;
+    height: 450px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+} 
+
+.paradise-background{
+    background-image: url('../images/paradise-background.jpg');
+    background-size: cover;
+}
+
+.input-container {
+    margin: 15px;
+}
+
+.footer {
+    height: 30px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: #363636;
+    color: whitesmoke;
+  }
+
+  .copyright-small {
+    font-size: 12px;
+  }
+
+.mt-50 {
+    margin-top: 30px;
+}
+
+.label {
+    color: whitesmoke;
+}
+
+
